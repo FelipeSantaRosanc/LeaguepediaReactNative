@@ -1,0 +1,23 @@
+export const styles = StyleSheet.create({
+    container: {
+      flex: 1,
+      backgroundColor: "#fff",
+      alignItems: "center",
+      justifyContent: "center",
+    }
+    acharCampeaoBotao: {
+      width: 300,
+      backgroundColor: "#399fff",
+      paddingHorizontal: 15,
+      paddingVertical: 10,
+      borderRadius: 5,
+      alignItems: "center",
+    }
+    searchtext: {
+      backgroundColor: "#fff",
+      alignItems: "center",
+      justifyContent: "center",
+      borderColor: "#000",
+      borderRadius: 6,
+    }
+  });
